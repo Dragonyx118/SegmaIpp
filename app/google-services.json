@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "830483560425",
+    "firebase_url": "https://serra-d44cc-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "serra-d44cc",
+    "storage_bucket": "serra-d44cc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830483560425:android:a324646c4ddebffb63fd78",
+        "android_client_info": {
+          "package_name": "com.esempio.serra"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8_ZTxu91THfA6pFEZIrBTAb10GEGtSSo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
