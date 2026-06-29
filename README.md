@@ -1,4 +1,4 @@
-# LagmaIpp
+# SegmaIpp
 
 ### *App android per SegmaSirra*
 
