@@ -11,7 +11,3 @@
 App android per la serra automatizzata [SegmaSirra](https://github.com/Dragonyx118/SegmaSirra), sviluppata in **Android Studio** per dispositivi Android.
 
 ---
-
-PalleBus ha vinto  
-Andrei unenployed  
-Panelli gay
